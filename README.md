@@ -133,6 +133,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/harshitc286/harshitc286/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/tachodex/tachodex/output/snake.svg" alt="Snake animation" />
 
 ###
