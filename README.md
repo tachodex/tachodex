@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Harshit Chauhan.<br>Think Like A Out Of The Box !</h2>
+<h2 align="center">Hi 👋! My name is Harshit Chauhan.<br>Think Like Out Of The Box !</h2>
 
 ###
 
